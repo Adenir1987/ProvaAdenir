@@ -11,4 +11,12 @@ package provaadenir;
  */
 public class Carro {
     
+    String tipo;
+    
+    public String gettipo () {
+        return tipo;
+    }
+    
+    public void 
+    
 }

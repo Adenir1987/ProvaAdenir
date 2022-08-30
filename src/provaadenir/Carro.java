@@ -17,6 +17,7 @@ public class Carro {
         return tipo;
     }
     
-    public void 
-    
+    public void settipo (String tipo){
+        this.tipo = tipo;
+    }
 }
